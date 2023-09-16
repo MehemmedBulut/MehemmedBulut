@@ -30,6 +30,10 @@
 
 <br />
 
+<style>
+  backgroung-color:white;
+</style>
+
 [instagram]:https://www.instagram.com/mehemmed__bulut/
 [twitter]:https://twitter.com/Mehemmed_Bulut
 [youtube]:https://www.youtube.com/channel/UCedhc2-fnz0gEj6uE5I735A
