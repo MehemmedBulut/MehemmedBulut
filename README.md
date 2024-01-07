@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Mahammad.<br>Fullstack Developer
+Hi there, I'm Mahammad.<br>Fullstack .NET Developer
 
 
 ## 🌐 Socials:
