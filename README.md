@@ -3,7 +3,8 @@ Hi there, I'm Mahammad.<br>Fullstack .NET Developer
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mehemmed__bulut) [![LinkedIn]
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mehemmed__bulut) 
+[![LinkedIn] {https://www.linkedin.com/in/buludzada/}
 [![Medium](https://img.shields.io/badge/Medium-%2312100E.svg?logo=Medium&logoColor=white)](https://medium.com/@mahammadbuludzada)
 
 
